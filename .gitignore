@@ -1,0 +1,32 @@
+# Unity
+[Tt]emp/
+[Oo]bj/
+[Ll]ibrary/
+[Ll]ogs/
+# Autres
+[Dd]ebug/
+[Dd]ebugPublic/
+[Tt]estResults/
+# Caches
+[Cc]ache/
+*.csproj
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.suo
+*.pdb
+*.opendb
+*.stackdump
+*.sln
+*.suo
+*.user
+*.userprefs
+*.log
+*.vs
+# Autres
+*.db
+*.sqlite
+*.swp
+*.sublime-workspace
+*.sublime-project
